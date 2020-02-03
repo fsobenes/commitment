@@ -9,25 +9,43 @@ header{
 	color: #f6eeee;
 }
 
-nav{
-	background-color: rgb(255, 128, 128, 0.6);
-}
 
 a{
 	text-decoration: none;
-	float: right;
-	
+	float: right;	
 }
+
+nav li a{
+	color: #fff0f0;
+}
+
+nav li a:hover{
+	color: #ff1a1a;
+}
+
+nav li a:active{
+	color: #660000;
+}
+
+nav li a:visited{
+	color: #330000;
+}
+
 ol{
 	list-style-type: none;
 }
 .nali{
 	list-style-type: none;
+	display: block;
 }
 
 .olli{
 	color: #990000;
 	font-size: 1.1em;
+}
+
+nav{
+	background-color: rgb(255, 128, 128, 0.6);
 }
 
 hr{
