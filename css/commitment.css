@@ -130,7 +130,7 @@ input[type=submit]:hover {
 #fname, #lname{
 	width: 150px;
 	border: none;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 
 #subject{
@@ -141,7 +141,8 @@ input[type=submit]:hover {
 }
  
 .submit{
-	margin-left: 30px;
+	margin-top: 10px;
+	margin-left: 60px;
 }
 
 
