@@ -37,10 +37,11 @@ h3{
 nav{
 	/*padding-top: 10px;
 	padding-bottom: 5px;*/
-	display: flex;
+	display: block;
     justify-content: flex-end;
     position: fixed;
     transition: top 0.3s;
+    
 
 }
 
