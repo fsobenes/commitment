@@ -118,11 +118,13 @@ hr{
 }
 
 input[type=submit]{
-  background-color: #ff6666;
+	color: white;
+	border: none;
+	background-color: #ff6666;
 }
 
 input[type=submit]:hover {
-  background-color: #ff4d4d;
+	background-color: #ff4d4d;
 }
 
 
