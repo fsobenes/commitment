@@ -9,8 +9,18 @@ header{
 	color: #f6eeee;
 }
 
+nav{
+	background-color: rgb(255, 128, 128, 0.6);
+}
+
+a{
+	text-decoration: none;
+	
+}
+
 .olli{
 	color: #990000;
+	font-size: 1.1em;
 }
 
 hr{
