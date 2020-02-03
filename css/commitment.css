@@ -87,6 +87,7 @@ nav li a:visited{
 
 ol{
 	display: grid;
+	padding: 20px;
 	/*grid-template-columns: min-content 2fr;*/
 	background-color: rgb(255, 240, 240, 0.4);
 	max-width: 90%;
