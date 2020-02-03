@@ -31,9 +31,6 @@ nav li a:visited{
 	color: #330000;
 }
 
-ol{
-	list-style-type: none;
-}
 .nali{
 	list-style-type: none;
 	display: block;
@@ -42,6 +39,10 @@ ol{
 .olli{
 	color: #990000;
 	font-size: 1.1em;
+}
+
+.enli{
+	padding-bottom: 20px;
 }
 
 nav{
