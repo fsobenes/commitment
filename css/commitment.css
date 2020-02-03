@@ -24,6 +24,7 @@ nav{
 	padding-bottom: 5px;*/
 	display: flex;
     justify-content: flex-end;
+    position: fixed;
 
 }
 
