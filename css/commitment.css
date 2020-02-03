@@ -77,10 +77,15 @@ ol{
 	/*grid-template-columns: min-content 2fr;*/
 	background-color: rgb(255, 240, 240, 0.4);
 	max-width: 90%;
+	margin-left: 40px;
 }
 
 ol li{
-	align-content: center;
+	text-align: left;
+}
+
+ol li ul li{
+	text-align: center;
 }
 
 nav{
