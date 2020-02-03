@@ -15,7 +15,14 @@ nav{
 
 a{
 	text-decoration: none;
+	float: right;
 	
+}
+ol{
+	list-style-type: none;
+}
+.nali{
+	list-style-type: none;
 }
 
 .olli{
