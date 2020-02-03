@@ -137,6 +137,11 @@ input[type=submit]:hover {
 	border: none;
 	height: 50px;
 	width: 350px;
+	resize: both;
+}
+ 
+.submit{
+	margin-left: 30px;
 }
 
 
