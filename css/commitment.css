@@ -127,9 +127,15 @@ input[type=submit]:hover {
 	background-color: #ff4d4d;
 }
 
+#fname, #lname{
+	width: 150px;
+	border: none;
+}
+
 #subject{
+	border: none;
 	height: 50px;
-	width: 250px;
+	width: 350px;
 }
 
 
