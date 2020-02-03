@@ -14,7 +14,10 @@ h2{
 
 nav{
 	padding-top: 10px;
-	padding-bottom: 30px;
+	padding-bottom: 5px;
+	display: flex;
+    justify-content: flex-end;
+
 }
 
 a{
@@ -25,10 +28,12 @@ a{
 nav li{
 	font-size: 1.1em;
 	padding-right: 30px;
+
 }
 
 nav li a{
 	color: #fff0f0;
+	/*align-items: right;*/
 }
 
 nav li a:hover{
