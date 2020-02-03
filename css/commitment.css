@@ -79,6 +79,8 @@ nav li a:visited{
 
 #aboutp{
 	background-color: rgb(255, 240, 240, 0.4);
+	margin: auto;
+	width: 85%;
 
 }
 
@@ -117,6 +119,8 @@ hr{
 	padding: 20px;
 	text-align: center;
 	background-color: rgb(255, 240, 240, 0.4);
+	width: 85%;
+	margin: auto;
 }
 
 input[type=submit]{
