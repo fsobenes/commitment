@@ -138,18 +138,21 @@ input[type=submit]:hover {
 	width: 150px;
 	border: none;
 	margin-bottom: 30px;
+	border-radius: 4px;
 }
 
 #subject{
 	border: none;
 	height: 50px;
 	width: 350px;
+	border-radius: 4px;
 	resize: both;
 }
  
 .submit{
 	margin-top: 10px;
 	margin-left: 60px;
+	border-radius: 4px;
 }
 
 
