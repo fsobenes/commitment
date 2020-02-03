@@ -70,6 +70,10 @@ nav li a:visited{
 	padding-bottom: 20px;
 }
 
+ol{
+	background-color: rgb(255, 240, 240, 0.4);
+}
+
 nav{
 	background-color: rgb(255, 128, 128, 0.6);
 }
