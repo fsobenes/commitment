@@ -22,11 +22,6 @@ h3{
 	padding-bottom: 15px;
 }
 
-/*img{
-	margin-left: auto;
-	margin-right: auto;
-}*/
-
 
 
 nav{
@@ -110,6 +105,11 @@ nav li a:visited{
 .enli{
 	padding-bottom: 20px;
 }
+
+#lapa{
+	width: 90%;
+}
+
 
 #aboutp{
 	background-color: rgb(255, 240, 240, 0.4);
