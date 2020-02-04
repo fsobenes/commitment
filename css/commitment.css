@@ -205,8 +205,8 @@ input[type=submit]:hover {
 }
 
 @media (47em) {
-	#heaadimg{
-		background-image: none;
+	header{
+		font-size: 1.3em;
 
 	}
 }
