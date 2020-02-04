@@ -204,11 +204,15 @@ input[type=submit]:hover {
 	border-radius: 4px;
 }
 
-@media (47em) {
+@media (max-width: 47em) {
 	header{
 		font-size: 1.3em;
-
 	}
+	#headimg{
+		background-image: none;
+		height: 100px;
+	}
+
 }
 
 
