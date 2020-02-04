@@ -1,8 +1,11 @@
 var nav = document.getElementById("navbar");
 
-window.scroll = function() {
+window.onscroll = function() {
 	if (window.pageYOffset > 100){
-		nav.style.opacity = "0.9"
+		nav.style.opacity = "0.9";
+	}
+	else{
+		nav.style.display = "none"; 
 	}
 }
 
