@@ -1,3 +1,9 @@
+/* Start http://www.cursors-4u.com */ 
+* {
+	cursor: url(http://ani.cursors-4u.net/symbols/sym-8/sym759.ani), url(http://ani.cursors-4u.net/symbols/sym-8/sym759.png), auto !important;
+} 
+	/* End http://www.cursors-4u.com */
+
 body{
 	background-color: rgb(255, 153, 153, 0.8);
 	font-family: helvetica, sans-serif;
