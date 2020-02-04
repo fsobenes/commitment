@@ -100,6 +100,7 @@ nav li a:visited{
 
 .lili{
 	padding-bottom: 5px;
+	font-size: 1.5em;
 }
 
 .enli{
@@ -137,7 +138,6 @@ ol{
 
 ol li{
 	text-align: left;
-	font-size: 1.5;
 }
 
 ol li ul li{
