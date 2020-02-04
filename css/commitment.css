@@ -61,8 +61,6 @@ nav li a{
 nav li a:hover{
 	background-color: #fff0f0;
 	color: rgb(255, 128, 128);
-	padding-bottom: 20px;
-
 }
 
 nav li a:active{
@@ -204,6 +202,13 @@ input[type=submit]:hover {
 	margin-top: 10px;
 	margin-left: 60px;
 	border-radius: 4px;
+}
+
+@media (47em) {
+	#heaadimg{
+		background-image: none;
+
+	}
 }
 
 
