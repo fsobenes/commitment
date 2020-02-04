@@ -17,6 +17,8 @@ h2{
 h3{
 	font-size: 1.7em;
 	color: #f6eeee;
+	width: 90%;
+	
 }
 
 /*img{
@@ -87,6 +89,12 @@ nav li a:visited{
 	/*margin-left: auto;
 	margin-right: auto;*/
 }
+
+#firstsec{
+	margin:auto;
+	width: 90%;
+}
+
 
 .olli{
 	color: #990000;
