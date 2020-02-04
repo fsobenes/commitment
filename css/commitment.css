@@ -29,6 +29,7 @@ h3{
 nav{
 	/*padding-top: 10px;
 	padding-bottom: 5px;*/
+	background-color: rgb(255, 128, 128, 0.8);
 	width: 100%;
 	display: flex;
     justify-content: flex-end;
@@ -79,7 +80,7 @@ nav li a:visited{
 	height: 400px;
 	background-image: url(../img/anti.jpg);
 	background-size: cover;
-	/*opacity: 0.7;*/
+	opacity: 0.8;
 	/*display: block;*/
 	/*margin-top: 110px;*/
 	
@@ -129,9 +130,6 @@ ol li ul li{
 	text-align: center;
 }
 
-nav{
-	background-color: rgb(255, 128, 128, 0.6);
-}
 
 hr{
 	align-self: center;
